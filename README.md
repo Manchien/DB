@@ -19,7 +19,8 @@
 > Learning Viseo：[ERD Tutorial1](https://www.youtube.com/watch?v=QpdhBUYk7Kk)、[ERD Tutorial2](https://www.youtube.com/watch?v=-CuY5ADwn24)、[Converting ER Diagrams to Schemas](https://www.youtube.com/watch?v=xQRRf5fOAt8&t=6s)
 >
 > diagraming tool：[diagrams](https://app.diagrams.net/)、[(ERD Notations)](https://gitmind.com/erd-examples.html)
-> 
+>
+### [Week4 - CRUD in Web APP](https://docs.google.com/presentation/d/1053jwkOvLAdeQCDUJKq-c0NwxB3jOqlkiL244y0DPro/edit#slide=id.g27d1f2bcb60_0_44)
 ## Homework
 * [HW01]()
 ## Project
