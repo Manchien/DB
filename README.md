@@ -22,5 +22,5 @@
 >
 ### [Week4 - CRUD in Web APP](https://docs.google.com/presentation/d/1053jwkOvLAdeQCDUJKq-c0NwxB3jOqlkiL244y0DPro/edit#slide=id.g27d1f2bcb60_0_44)
 ## Homework
-* [HW01]()
+* [HW01](https://youtu.be/xgtL3GRKgT0)
 ## Project
