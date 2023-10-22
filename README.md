@@ -22,5 +22,6 @@
 >
 ### [Week4 - CRUD in Web APP](https://docs.google.com/presentation/d/1053jwkOvLAdeQCDUJKq-c0NwxB3jOqlkiL244y0DPro/edit#slide=id.g27d1f2bcb60_0_44)
 ## Homework
-* [HW01](https://youtu.be/xgtL3GRKgT0)
+* `HW01 Video`：[ERD design & create database & CRUD](https://youtu.be/xgtL3GRKgT0)
+* `HW02 Video`：[CRUD in Web APP](https://youtu.be/8pczMXLfHeA)
 ## Project
