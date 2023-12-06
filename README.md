@@ -25,4 +25,7 @@
 * `HW01 Video`：[ERD design & create database & CRUD](https://youtu.be/xgtL3GRKgT0)
 * `HW02 Video`：[CRUD in Web APP & Create Front-end](https://youtu.be/8pczMXLfHeA)
 * `HW03 Video`：[CRUD in NoSQL & Nodejs React with Mongodb](https://youtu.be/4PwAVrYP6Hg)
-## Project
+## Project - Management System For Travel Agency
+[Proposal-1](https://youtu.be/1HhLKziO_Es)Project ideas、ERD
+[Proposal-2](https://youtu.be/R7QjuFyrWTA)Project extension ideas、Figma
+[Proposal-3](https://www.youtube.com/watch?v=IjcFvUmc-Ns)Full Stack、CRUD
